@@ -6,13 +6,18 @@ body
 h1
 {
     color:grey;
+    text-align: left;
     font-family: Verdana, sans-serif;
+}
+footer
+{
+    text-align: left;
 }
 .maindiv
 {
     background-color:white;
     color:black;
-    width:300px;
+    width:500px;
     padding:20px;
     border-radius: 25px;
     margin-left: auto;
